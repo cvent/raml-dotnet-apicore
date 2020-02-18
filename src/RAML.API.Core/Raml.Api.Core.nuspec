@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>RAML.Api.Core</id>
+    <id>Cvent.RAML.Api.Core</id>
     <version>0.10.1</version>
-    <title>RAML.Api.Core</title>
+    <title>Cvent.RAML.Api.Core</title>
     <authors>MuleSoft Inc</authors>
     <owners>MuleSoft Inc</owners>
-    <projectUrl>https://github.com/mulesoft-labs/raml-dotnet-apicore</projectUrl>
+    <projectUrl>https://github.com/cvent/raml-dotnet-apicore</projectUrl>
 	<licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
 	<iconUrl>http://raml.org/images/logo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -18,15 +18,15 @@
       </dependencies>
   </metadata>
     <files>
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\net45\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\wpa81\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\win8\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\MonoAndroid10\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\xamarinios10\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\MonoTouch10\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\portable-net45+win+wpa81\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\Xamarin.iOS10\Raml.Api.Core.dll" />
-        <file src="bin\debug\Raml.Api.Core.dll" target="lib\dotnet\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\net45\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\wpa81\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\win8\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\MonoAndroid10\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\xamarinios10\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\MonoTouch10\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\portable-net45+win+wpa81\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\Xamarin.iOS10\Raml.Api.Core.dll" />
+        <file src="bin\Release\Raml.Api.Core.dll" target="lib\dotnet\Raml.Api.Core.dll" />
     </files>
 </package>
